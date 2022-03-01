@@ -2,4 +2,4 @@ this is file.txt
 and i'm eddeting it for the first time
 
 writing from local repo
-again
+again from local repo
